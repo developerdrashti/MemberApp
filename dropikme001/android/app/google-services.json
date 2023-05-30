@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848409580138",
+    "project_id": "dropikmev001-3b4ba",
+    "storage_bucket": "dropikmev001-3b4ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848409580138:android:9d3d8186100bb0ef16b013",
+        "android_client_info": {
+          "package_name": "com.netpair.dropikme001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848409580138-ohascdso3goiobqc10cibrcurpfq9f1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTchkfzY3-zzkZfcBAcLMzyHNr5-eZUv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848409580138-ohascdso3goiobqc10cibrcurpfq9f1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+class Appstring{
+  static String login="LOGIN";
+ static String mobilenumber="Mobile Number";
+ static String Blogin="Login";
+ static String otp="OTP Verify";
+ static String enter="Please Enter The Verification Code send Your Mobile";
+ static String hinttext="Enter Mobile Number";
+ static String hintotp="Enter OTP";
+ static String verify="Verify";
+ static String profile="Profile";
+ static String complain="Complain";
+ static String leave="Leave";
+ static String settings="Settings";
+ static String report="Report";
+ static String lastlocation="Last Location";
+ static String arrivaltime="Arrival Time";
+ static String speed="Speed";
+ static String tem="Temp.";
+ static String wait="Wait";
+ static int time=120;
+ static String second="Second";
+ static String vehicalno="Vehicle Number";
+ static String routename="Route Name";
+ static String droptitle="Drop Details";
+ static String dlocation=" Location";
+ static String dtime=" Time";
+ static String pickuptitle="Pick-Up Details";
+  static String plocation=" Location";
+  static String ptime=" Time";
+ static String logout="Logout";
+}
